@@ -1,1 +1,2 @@
-just practising spring boot :)
+Good example that shows how thymeleaf glues things together
+Practising SPRING BOOT ...
